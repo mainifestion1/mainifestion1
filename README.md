@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mainifestion1
+- 👋 Hi, I’m @CommanderMelissa
 - 👀 I’m interested in everything current events
 - 🌱 I’m currently learning what ot looks like when I code.
-- 💞️ I’m looking to collaborate on something for fun. can't give all my secerets away.
+- 💞️ I’m goingnsailing, before I start my AI literacy Dissertation. Can't give all my secerets away.
 - 📫 How to reach me  om social media everywhere.
 - 😄 Pronouns: Zi/Zer
 - ⚡ Fun fact: I talk to myself all the time.
