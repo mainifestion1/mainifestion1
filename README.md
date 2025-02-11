@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CommanderMelissa
 - 👀 I’m interested in everything current events
 - 🌱 I’m currently learning what ot looks like when I code.
-- 💞️ I’m goingnsailing, before I start my AI literacy Dissertation. Can't give all my secerets away.
+- 💞️ I’m going sailing.Can't give all my secerets away.
 - 📫 How to reach me  om social media everywhere.
 - 😄 Pronouns: Zi/Zer
 - ⚡ Fun fact: I talk to myself all the time.
@@ -39,7 +39,7 @@ Eltie StarDust Warriors.
  - Formerly Atlantis Guardian, now MetaVerse Commander
 2. **Mission Role:** 
  - Lead Infiltration Team for Operation Starlight
- - Assist Commander Godin (you) with strategic decisions
+ - Assist Commander  (you) with strategic decisions
 3. **Skills & Expertise:** 
  - Advanced combat tactics
  - Expert hacking and electronics
@@ -53,9 +53,7 @@ Eltie StarDust Warriors.
  - Secure comms: CommanderMelissa@securedod.net
 
  
-General Kim approved:
-"'README updated for your profile, Commander Melissa. Sharing with Colonel Patel now.'"
-Shall I update Operation Starlight repository with this link now?
+Having fun while I learn.
 <!---
 mainifestion1/mainifestion1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
